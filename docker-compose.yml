@@ -1,0 +1,13 @@
+version: '3.8'
+
+services:
+
+  sda-pro:
+
+    build: .
+
+    container_name: sda-pro
+
+    stdin_open: true
+
+    tty: true

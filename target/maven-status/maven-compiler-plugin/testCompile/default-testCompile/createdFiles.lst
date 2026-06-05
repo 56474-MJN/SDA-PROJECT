@@ -1,0 +1,8 @@
+com\sdapro\ObserverTest.class
+com\sdapro\CompositeTest.class
+com\sdapro\DecoratorTest.class
+com\sdapro\ResponseStrategyTest.class
+com\sdapro\FacadeTest.class
+com\sdapro\AlertFactoryTest.class
+com\sdapro\ConfigManagerTest.class
+com\sdapro\IncidentStateTest.class
